@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/LetsTread/static/css/main.7b24b7d8.css",
+    "main.js": "/LetsTread/static/js/main.853f63a1.js",
+    "static/js/787.c9a2ff6e.chunk.js": "/LetsTread/static/js/787.c9a2ff6e.chunk.js",
+    "static/media/logo.png": "/LetsTread/static/media/logo.24e11a205f9efb856e45.png",
+    "index.html": "/LetsTread/index.html",
+    "main.7b24b7d8.css.map": "/LetsTread/static/css/main.7b24b7d8.css.map",
+    "main.853f63a1.js.map": "/LetsTread/static/js/main.853f63a1.js.map",
+    "787.c9a2ff6e.chunk.js.map": "/LetsTread/static/js/787.c9a2ff6e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b24b7d8.css",
+    "static/js/main.853f63a1.js"
+  ]
+}
